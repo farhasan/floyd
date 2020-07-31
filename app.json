@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "floyd",
+    "slug": "floyd",
+    "version": "1.0.0",
+    
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ff8c00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.farty.floyd",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.farty.floyd",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
