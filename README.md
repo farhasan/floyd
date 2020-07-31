@@ -7,3 +7,4 @@ Usage shown below
 -------------------------
 
 
+![usage-gif](https://github.com/farhasan/floyd/blob/master/usage.gif?raw=true)
